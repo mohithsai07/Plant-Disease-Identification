@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection & Diagnosis System  
+# 🌿 An Image-Based Approach for Early Detection and Classification of Crop Leaf Diseases 
 
 ![Banner](https://img.shields.io/badge/AI-Plant%20Health-brightgreen?style=for-the-badge)  
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)  
