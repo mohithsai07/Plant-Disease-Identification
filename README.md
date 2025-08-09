@@ -109,7 +109,8 @@ It uses a **Custom Convolutional Neural Network (CNN) with Transfer Learning** t
 ## 📄 Research Paper  
 
 📌 **Title:** *An Image-Based Approach for Early Detection and Classification of Crop Leaf Diseases*  
-📥 **Download PDF:** [Click Here](https://ieeexplore.ieee.org/document/11085900)  
-✍️ **Published by:** Department of Computational Intelligence, SRM Institute of Science and Technology  
+📥 **View Paper:** [Click Here](https://ieeexplore.ieee.org/document/11085900) 
+✍️ **Published In:** 2025 6th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)
+✍️ **Published by:** IEEE
 
 ---
